@@ -1,3 +1,5 @@
+package poo.aula1.exercicio;
+
 public class OlaMundo {
     public static void main(String[] args) {
         String argumento = args.length >= 1 ? args[0] : " ";
