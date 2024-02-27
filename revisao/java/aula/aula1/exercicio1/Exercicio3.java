@@ -33,11 +33,11 @@ public class Exercicio3 {
                             System.out.println("Errou!! você tem " + contador  +  " chances para acertar"  );
 
                             if(numero > numeroAleatorio){
-                                System.out.println("O número que foi digitado é maior que o número sorteado.");
+                                System.out.println("O número que foi digitado é maior que o sorteado.");
 
                             }
                             else {
-                                System.out.println("O número que foi digitado é menor que o número sorteado.");
+                                System.out.println("O número que foi digitado é menor que o sorteado.");
 
                             }
                         }
