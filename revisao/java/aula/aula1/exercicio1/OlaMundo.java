@@ -1,4 +1,4 @@
-package revisao.java.aula1.exercicioRevisao;
+package revisao.java.aula.aula1.exercicioRevisao;
 
 public class OlaMundo {
     public static void main(String[] args) {
